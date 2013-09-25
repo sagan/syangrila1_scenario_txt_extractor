@@ -22,4 +22,7 @@
 
 如果要提取日文原版剧本, 将上面步骤里执行的命令```generate.sh```改为```generate_ja.sh```
 
-提取好的晓之护卫1剧本下载(中文版): http://pan.baidu.com/s/1yy2be
+提取好的晓之护卫1剧本下载
+
+* 中文版: http://pan.baidu.com/s/1yy2be
+* 日文版: http://pan.baidu.com/s/1eLFaO
