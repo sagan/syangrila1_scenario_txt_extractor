@@ -4,7 +4,7 @@
 ##说明
 
 [晓之护卫](http://zh.wikipedia.org/wiki/%E6%9B%89%E4%B9%8B%E8%AD%B7%E8%A1%9B)是日本AKABEiSOFT2公司的Galgame系列.
-这个脚本能提取晓之护卫1代的游戏剧本文件并合并成可读的txt文档.
+这个脚本能提取晓之护卫1代PC版的游戏剧本文件并合并成可读的txt文档.
 
 脚本使用node.js和bash. node.js需要安装buffertools包.(```npm -g install buffertools```)
 
